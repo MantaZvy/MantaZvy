@@ -9,4 +9,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
